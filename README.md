@@ -55,11 +55,11 @@
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=028dd1">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
