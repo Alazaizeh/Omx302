@@ -19,6 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omx302&layout=donut-vertical)](https://github.com/Omx302/github-readme-stats)
  
+![Omx302's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omx302)
 
 
 <!--
