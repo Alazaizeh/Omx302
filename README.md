@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=FFCA28&logo=firebase">
+<img  src="https://readme-components.vercel.app/api?component=logo&svgfill=FFCA28&logo=firebase">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
