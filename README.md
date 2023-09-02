@@ -64,21 +64,22 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
 </a>
-
+ 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&svgfill=FFCA28&logo=firebase">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
+</a>
+
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
