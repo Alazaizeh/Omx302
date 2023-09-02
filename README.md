@@ -20,7 +20,7 @@
 
   
 
-![Omx302's GitHub stats](https://github-readme-stats.vercel.app/api?username=alazaizeh\&rank_icon=github)
+![Omx302's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omx302\&rank_icon=github)
 
 
 **languages and tools:**  
