@@ -42,8 +42,9 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jest&svgfill=df5c43">  
 </a>
+  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=cd6799">
+<img  src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg">
 </a>
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 <a href="https://github.com/harish-sethuraman/readme-components">
