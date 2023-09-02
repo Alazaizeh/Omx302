@@ -44,7 +44,9 @@
 </a>
   
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg">
+<img  >
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg"/>
+
 </a>
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 <a href="https://github.com/harish-sethuraman/readme-components">
