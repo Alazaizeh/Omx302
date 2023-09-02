@@ -51,7 +51,7 @@
 </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=f6df1c"">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
