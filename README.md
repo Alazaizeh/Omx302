@@ -75,7 +75,7 @@
 
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=heroku&svgfill=30098">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=heroku&svgfill=430098">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
