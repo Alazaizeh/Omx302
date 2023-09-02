@@ -49,6 +49,19 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
+
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
+</a>
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp">
+</a>
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0">
+</a>
+
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
