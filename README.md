@@ -70,16 +70,16 @@
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=#7952B3">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=7952B3">
 </a>
 
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=heroku&svgfill=30098">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=f06629">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=232F3E">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
