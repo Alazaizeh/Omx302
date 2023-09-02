@@ -18,11 +18,13 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omx302&layout=donut-vertical)](https://github.com/Omx302/github-readme-stats)
+
+<!--
+
  
 ![Omx302's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omx302)
 
 
-<!--
 **Omx302/Omx302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
